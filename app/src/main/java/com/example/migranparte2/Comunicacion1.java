@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class Comunicacion1 extends AppCompatActivity {
     EditText edtnombre;
     EditText edtingresomes;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
